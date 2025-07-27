@@ -1,1 +1,3 @@
-# CS1110a6
+# CS1110: Assignment 6
+
+## Image Editor
